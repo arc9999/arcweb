@@ -23,6 +23,9 @@ body{
     padding-bottom: 60px; /*half of line-height in title*/
     z-index: 1000;
   }
+  .wrap {
+    padding: 10% 20%;
+  }
   .shoutbox {
     font-family:"Trebuchet MS", Helvetica, sans-serif;
     letter-spacing: 2px;
