@@ -23,9 +23,6 @@ body{
     padding-bottom: 60px; /*half of line-height in title*/
     z-index: 1000;
   }
-  .wrap {
-    padding: 10% 20%;
-  }
   .shoutbox {
     font-family:"Trebuchet MS", Helvetica, sans-serif;
     letter-spacing: 2px;
@@ -83,15 +80,7 @@ body{
   }
   .title{
     color: white;
-    text-shadow: 1px 1px 1px #919191,
-          1px 2px 1px #919191,
-          1px 3px 1px #919191,
-          1px 4px 1px #919191,
-          1px 5px 1px #919191,
-          1px 6px 1px #919191,
-          1px 7px 1px #919191,
-      1px 10px 6px rgba(16,16,16,0.4);
-    font-family: sans-serif;
+    font-family: 'Courier New', Courier, monospace;
     font-weight: 800;
     font-size: 8em;
     letter-spacing: -5px;
