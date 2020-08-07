@@ -1,3 +1,9 @@
-.background {
-    background-image: url(background.png);
-}
+.stars {
+    background:#000 url(background.png) repeat top center;
+    z-index:2;
+  }
+  
+  body{
+    background-color: black;
+    overflow: hidden;
+  }
