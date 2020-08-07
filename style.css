@@ -81,11 +81,6 @@ body{
   .title{
     color: white;
     font-family: 'Courier New', Courier, monospace;
-    font-size: 8em;
-    letter-spacing: -5px;
-    line-height: 80px;
-    margin-top: 50px;
-    margin-bottom: 75px;
   }
   .btn {
     padding: 1em 2.1em 1.1em;
